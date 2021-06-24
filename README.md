@@ -2,6 +2,6 @@
 This repo contains the solution to many of the problems in hackerearth website
 
 ## Problem categories
-> [(Basic)](https://github.com/Shashankhs17/Hackerearth-problems_python/blob/master/Basic/)
+> [Basic] - Handling Input and output (https://github.com/Shashankhs17/Hackerearth-problems_python/master/Basic/)
 
-> [(Implementation)](https://github.com/Shashankhs17/Hackerearth-problems_python/blob/master/Implementation/)
+> [Implementation] - Implementing time factor and problem solving (https://github.com/Shashankhs17/Hackerearth-problems_python/master/Implementation/)
